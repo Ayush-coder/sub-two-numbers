@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a=5,b=3;
+int a=55,b=33;
 int sub=a-b;
 printf("ans is %d",sub);
 }
